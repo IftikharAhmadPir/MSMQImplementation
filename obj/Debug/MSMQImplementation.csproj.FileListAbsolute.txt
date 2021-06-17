@@ -1,0 +1,7 @@
+C:\Users\iftik\source\repos\MSMQImplementation\MSMQImplementation\bin\Debug\MSMQImplementation.exe.config
+C:\Users\iftik\source\repos\MSMQImplementation\MSMQImplementation\bin\Debug\MSMQImplementation.exe
+C:\Users\iftik\source\repos\MSMQImplementation\MSMQImplementation\bin\Debug\MSMQImplementation.pdb
+C:\Users\iftik\source\repos\MSMQImplementation\MSMQImplementation\obj\Debug\MSMQImplementation.csprojAssemblyReference.cache
+C:\Users\iftik\source\repos\MSMQImplementation\MSMQImplementation\obj\Debug\MSMQImplementation.csproj.CoreCompileInputs.cache
+C:\Users\iftik\source\repos\MSMQImplementation\MSMQImplementation\obj\Debug\MSMQImplementation.exe
+C:\Users\iftik\source\repos\MSMQImplementation\MSMQImplementation\obj\Debug\MSMQImplementation.pdb
